@@ -10,7 +10,7 @@ This project implements a Generative Adversarial Network (GAN) to enhance low-re
 - Evaluated the model on both clean and noisy tumor-affected MRI scans.
 - Used preprocessed and filtered datasets to ensure data quality.
 - Final trained model included for reuse and evaluation.
-
+ 
 ---
 
 ## 🗂️ Project Structure
